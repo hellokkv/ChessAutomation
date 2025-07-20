@@ -1,0 +1,2 @@
+3.199882900823576
+savedModels/blackModels/model_20240117_181529_69

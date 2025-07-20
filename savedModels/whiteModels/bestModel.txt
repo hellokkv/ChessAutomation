@@ -1,0 +1,2 @@
+3.1843576489629943
+savedModels/whiteModels/model_20240118_100613_69
